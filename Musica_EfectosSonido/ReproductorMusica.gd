@@ -2,7 +2,7 @@
 extends Node
 
 # Carpeta donde están los efectos de sonido 
-const RUTA_SFX := "res://Musica_EfectosSonido/sfx/"
+const RUTA_SFX := "res://Musica_EfectosSonido/efectosSonido/"
 # Carpeta donde está la música de fondo 
 const RUTA_MUSICA := "res://Musica_EfectosSonido/musica/"
 

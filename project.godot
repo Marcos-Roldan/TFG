@@ -14,6 +14,10 @@ config/name="TFG_Juego"
 config/features=PackedStringArray("4.7", "Forward Plus")
 config/icon="res://icon.svg"
 
+[autoload]
+
+ReproductorMusica="*uid://p7g73itqqpns"
+
 [display]
 
 window/stretch/mode="canvas_items"
